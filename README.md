@@ -1,5 +1,5 @@
 # Drum-Kit
-Drum Kit which play different sounds 
+Drum Kit is a website which play different instrumental sounds on clicking the images or via pressing keyboard key.
 
 # Tool Used
 HTML,CSS,Javascript,Document Object Model (DOM)
